@@ -190,6 +190,7 @@ header a:hover {
 /* About */
 #about {
     //background-color: #002933;
+    background-color: #696262;
 }
 #about .first-para {
     border-left: 8px solid #35424A;
@@ -197,8 +198,9 @@ header a:hover {
     font-size: 1.5em;
     margin-left: 3.0em;
 }
+
 #about fieldset {
-    background-color:  #eee;
+    background-color:  #7c7979;
     margin-top: 20px;
     margin-bottom: 40px;
 }
@@ -224,6 +226,7 @@ header a:hover {
 #services {
     margin-top: 20px;
     margin-bottom: 40px;
+    background-color: rgba(53, 66, 74, 0.59);
 }
 
 #services .service {
@@ -232,7 +235,7 @@ header a:hover {
     margin: 10px;
 } 
 #services h3 {
-   font-size: 1.4rem;
+    font-size: 1.4rem;
     font-weight: 500;
 }
 
